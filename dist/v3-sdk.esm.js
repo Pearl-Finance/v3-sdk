@@ -436,7 +436,7 @@ function _createForOfIteratorHelperLoose(o, allowArrayLike) {
 var _TICK_SPACINGS;
 var FACTORY_ADDRESS = '0x1F98431c8aD98523631AE4a59f267346ea31F984';
 var ADDRESS_ZERO = '0x0000000000000000000000000000000000000000';
-var POOL_INIT_CODE_HASH = '0xe34f199b19b2b4f47f68442619d555527d244f78a3297ea89325f843f87b8b54';
+var POOL_INIT_CODE_HASH = '0x26ebc36b73186a7d00b4a1677cfbb1373382600415a0c09a91d079e347d66425';
 /**
  * The default factory enabled fee amounts, denominated in hundredths of bips.
  */
