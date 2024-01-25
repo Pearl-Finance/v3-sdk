@@ -442,7 +442,7 @@ function _createForOfIteratorHelperLoose(o, allowArrayLike) {
 var _TICK_SPACINGS;
 var FACTORY_ADDRESS = '0xf2A5DD9ff3aA93807986DeAA9fD316471BD959Cd';
 var ADDRESS_ZERO = '0x0000000000000000000000000000000000000000';
-var POOL_INIT_CODE_HASH = '0xDE6D6E393546fcF5f75a473088aE1eB701129C33';
+var POOL_INIT_CODE_HASH = '0xc32ed61a35ac401654bdc05f40637b01ce2fe2a5446cc86df1d00ac7faae2bcc';
 (function (FeeAmount) {
   FeeAmount[FeeAmount["LOWEST"] = 100] = "LOWEST";
   FeeAmount[FeeAmount["LOW"] = 500] = "LOW";
